@@ -18,12 +18,11 @@ venv(you need to use python3 in the ros environment which has a bad support for 
 
 pytorch_mnist.py is the code to train the mnist
 
-![1584415330775](C:\Users\19162\AppData\Roaming\Typora\typora-user-images\1584415330775.png)
-
+![1584415415712]（C:\Users\19162\github\1.jpg）
 pytorch_mnist_camera.py is the code to detect and classify the number you write
 
-![1584415415715](C:\Users\19162\AppData\Roaming\Typora\typora-user-images\1584415415715.png)
+![1584415415715](C:\Users\19162\github\2.jpg)
 
-![1584415434958](C:\Users\19162\AppData\Roaming\Typora\typora-user-images\1584415434958.png)
+![1584415434958](C:\Users\19162\github\3.jpg)
 
 Others are just for learning.
