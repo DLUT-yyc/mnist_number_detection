@@ -1,28 +1,28 @@
-#### mnist_number_detection
+## mnist_number_detection
 
-##### Introduction：
+### Introduction：
 
 Use opencv to conditionally limit the number box to get its coordinate position, and input the detected target part into the trained forward propagation network to complete the entire target detection process.
 
-##### requirements:
+### requirements:
 
-ubuntu(recommend 18.04 or 16.04)
+**ubuntu**(recommend 18.04 or 16.04)
 
-ROS(ros-melodic-desktop-full is ok)
+**ROS**(ros-melodic-desktop-full is ok)
 
-pytorch(with cuda is best)
+**pytorch**(with cuda is best)
 
-venv(you need to use python3 in the ros environment which has a bad support for python3)
+**venv**(you need to use python3 in the ros environment which has a bad support for python3)
 
-##### Quick Start
+### Quick Start
 
-pytorch_mnist.py is the code to train the mnist
+**pytorch_mnist.py** is the code to train the mnist
 
-![train](https://github.com/DLUT-yyc/mnist_number_detection/train.jpg)
-pytorch_mnist_camera.py is the code to detect and classify the number you write
+![image](https://github.com/DLUT-yyc/mnist_number_detection/blob/master/train.jpg)
+**pytorch_mnist_camera.py** is the code to detect and classify the number you write
 
-![1584415415715](C:\Users\19162\github\2.jpg)
+![image](https://github.com/DLUT-yyc/mnist_number_detection/blob/master/test1.jpg)
 
-![1584415434958](C:\Users\19162\github\3.jpg)
+![image](https://github.com/DLUT-yyc/mnist_number_detection/blob/master/test2.jpg)
 
 Others are just for learning.
