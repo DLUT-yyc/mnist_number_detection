@@ -1,4 +1,0 @@
-pytorch_mnist.py 为训练手写数字数据集mnist的代码
-pytorch_mnist_camera.py 为网络摄像头数字在线检测代码
-
-其他为课程学习代码，对应ppt
