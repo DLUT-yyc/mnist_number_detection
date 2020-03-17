@@ -18,7 +18,7 @@ venv(you need to use python3 in the ros environment which has a bad support for 
 
 pytorch_mnist.py is the code to train the mnist
 
-![train](https://github.com/DLUT-yyc/mnist_number_detection/edit/master/train.jpg)
+![train](https://github.com/DLUT-yyc/mnist_number_detection/train.jpg)
 pytorch_mnist_camera.py is the code to detect and classify the number you write
 
 ![1584415415715](C:\Users\19162\github\2.jpg)
